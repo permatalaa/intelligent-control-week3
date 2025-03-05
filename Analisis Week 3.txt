@@ -1,0 +1,7 @@
+Analisis dan Diskusi:
+
+Dalam praktikum ini, dapat memberikan pemahaman yang mendalam tentang cara kerja pengolahan citra dan penerapan machine learning secara real-time. Program ini dibuat untuk mengklasifikasi objek dalam gambar, secara otomatis menyesuaikan pencahayaan, mengukur intensitas cahaya, dan mengklasifikasikan kondisi pencahayaan sebagai gelap, redup atau cerah.
+
+Selanjutnya, program ini juga menunjukkan hasil prediksi klasifikasi objek, nilai intensitas cahaya, dan klasifikasi pencahayaan langsung di layar. Selain itu, program ini juga memiliki fitur mode Night Vision mengubah gambar ke tampilan warna khusus untuk meningkatkan visibilitas dalam kondisi pencahayaan minimal. Pada klasifikasi objek, program mengenali enam kategori gambar, yaitu buildings, forest, glacier, mountain, sea, dan street. Jika pada frame tidak teridentifikasi, akan muncul tulisan unknown.
+
+Program ini sangat berguna karena cocok untuk digunakan dalam pemantauan atau sistem otomatis karena memungkinkan identifikasi objek yang lebih akurat di bawah kondisi pencahayaan yang berbeda.
